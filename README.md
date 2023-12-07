@@ -96,7 +96,7 @@ nest.js의 `ExceptionFilter` 를 확장하여 서버에서 발생할 수 있는 
 
 ### Artillery 테스트 결과로 컨테이너 개수 조절
 
-`Load Balancing` 이 적용되어 있는 실제 서버에 `Artillery` ****로 테스트를 진행하여 요청을 받아들일 수 있는 적당한 컨테이너 개수를 선정하였습니다.
+`Load Balancing` 이 적용되어 있는 실제 서버에 `Artillery` 로 테스트를 진행하여 요청을 받아들일 수 있는 적당한 컨테이너 개수를 선정하였습니다.
 
 [✏️ Artillery 테스트를 통한 실제 서버 컨테이너 개수 조절](https://velog.io/@gkqkehs7/%EC%8B%A4%EC%A0%9C-%EC%84%9C%EB%B2%84%EC%97%90-%EB%B6%80%ED%95%98-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B8%B0)
 
@@ -104,7 +104,7 @@ nest.js의 `ExceptionFilter` 를 확장하여 서버에서 발생할 수 있는 
 
 ### Artillery 테스트로 메모리 누수 발생 문제 코드 수정
 
-`Artillery` ****로 테스트를 진행하며 메모리 누수를 확인하였고, 디버깅하여 메모리 누수 코드를 발견하고 수정하였습니다.
+`Artillery` 로 테스트를 진행하며 메모리 누수를 확인하였고, 디버깅하여 메모리 누수 코드를 발견하고 수정하였습니다.
 
 [✏️ Artillery 테스트를 통한 메모리 누수 발생 및 코드 수정](https://velog.io/@gkqkehs7/%EB%B6%80%ED%95%98-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A1%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EC%BD%94%EB%93%9C-%EB%B0%9C%EA%B2%AC-%EB%B0%8F-%EC%88%98%EC%A0%95-Eager-Lazy-loading)
 
