@@ -1,4 +1,6 @@
 # 🔑 About
+https://github.com/gkqkehs7/egusajo-Backend/assets/77993709/3cf249af-6d69-43fb-9984-eeada6797f61
+
 생일 펀딩해주는 앱 어플리케이션 입니다.
  
 <br />
