@@ -1,8 +1,5 @@
 # 🔑 About
 
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
 https://github.com/gkqkehs7/egusajo-Backend/assets/77993709/9ae0bde0-dd8b-4d08-a741-dce171a3d8d6
 
 생일 펀딩해주는 앱 어플리케이션 입니다.
